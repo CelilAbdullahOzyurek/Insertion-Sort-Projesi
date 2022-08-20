@@ -1,4 +1,4 @@
-# Isertion Sort Projesi
+# Insertion Sort Projesi
 
 
 ##Insertion Sort Projesi
