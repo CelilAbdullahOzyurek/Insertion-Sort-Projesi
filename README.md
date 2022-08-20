@@ -1,4 +1,4 @@
-# Proje Soruları
+# Isertion Sort Projesi
 
 
 ##Insertion Sort Projesi
